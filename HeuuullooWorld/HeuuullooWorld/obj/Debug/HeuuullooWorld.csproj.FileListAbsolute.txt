@@ -1,0 +1,6 @@
+c:\users\alexander.rost\documents\visual studio 2015\Projects\HeuuullooWorld\HeuuullooWorld\bin\Debug\HeuuullooWorld.exe.config
+c:\users\alexander.rost\documents\visual studio 2015\Projects\HeuuullooWorld\HeuuullooWorld\bin\Debug\HeuuullooWorld.exe
+c:\users\alexander.rost\documents\visual studio 2015\Projects\HeuuullooWorld\HeuuullooWorld\bin\Debug\HeuuullooWorld.pdb
+c:\users\alexander.rost\documents\visual studio 2015\Projects\HeuuullooWorld\HeuuullooWorld\obj\Debug\HeuuullooWorld.csprojResolveAssemblyReference.cache
+c:\users\alexander.rost\documents\visual studio 2015\Projects\HeuuullooWorld\HeuuullooWorld\obj\Debug\HeuuullooWorld.exe
+c:\users\alexander.rost\documents\visual studio 2015\Projects\HeuuullooWorld\HeuuullooWorld\obj\Debug\HeuuullooWorld.pdb
